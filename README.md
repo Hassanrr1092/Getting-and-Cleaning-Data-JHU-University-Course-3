@@ -3,4 +3,5 @@ In this document, I represented my understanding of R programming language and d
 
 
 Note 1: from several csv files related to the questions, as a sample of my work, I uploaded the messiest data set "GDP.csv" and its cleaned version I worked on. 
+
 Note 2: you can access to the living webpage of the my document on this page.
